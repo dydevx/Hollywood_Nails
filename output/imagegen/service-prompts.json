@@ -1,0 +1,52 @@
+{
+  "generator": "Built-in image_gen",
+  "created": "2026-10-09",
+  "purpose": "AI-generated illustrations of nail salon services",
+  "images": [
+    {
+      "key": "manicure",
+      "file": "assets/images/service-ai-manicure.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website service card, Manicure. Generate ONE landscape 3:2 professional editorial close-up photograph of a classic MANICURE IN PROGRESS. One adult customer's relaxed hand lies palm down on a thick clean ivory towel on a pale blush-pink manicure table. Customer has short natural oval nails with a translucent healthy pink finish. A professional technician's two hands wearing pale pink nitrile gloves gently hold the customer's ring finger and precisely push back its cuticle with a clean metal cuticle pusher. Anatomically accurate hands and five fingers per hand, natural realistic skin texture, precise healthy cuticles, sterile tool, no wounds. Compose all essential manicure action and nail tips in the central 65% of frame so square crops remain readable. Soft diffused daylight, natural premium beauty photography, main nails in crisp focus, ivory and blush salon palette, softly blurred background. No text, watermark, logo, borders, decorative overlays, long extensions or nail art. This image should clearly communicate cuticle care and classic hand manicure."
+    },
+    {
+      "key": "extensions",
+      "file": "assets/images/service-ai-extensions.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website service card, Nail & Toe Extensions. Generate ONE landscape 3:2 premium editorial close-up beauty photograph of the finished results of FINGERNAIL AND TOENAIL EXTENSIONS. Show one adult woman's hand with exactly five anatomically correct fingers and one of her feet with exactly five anatomically correct toes, naturally resting next to each other on the same thick clean ivory spa towel over a pale blush surface. Hand sits beside the forefoot rather than overlapping toes, with all nail tips unobstructed in the central 65% of frame for square cropping. Fingernails are medium-long neatly sculpted square extensions with a translucent nude pink base and crisp white French tips. Toenails are short and neatly squared with a subtle constructed big-toenail extension, natural salon-safe short length, matching nude pink and white French tips. The hand and foot must be unmistakable, realistic proportions, all toes connected to the same foot, realistic healthy skin texture and cuticles. Soft diffused daylight, premium salon photographic style, main nails crisp in focus, softly blurred pale blush background. No text, watermark, logo, jewelry, shoes, bottles, borders, graphic overlays, tools or extra body parts. Do not create unnaturally long toenails. Clearly communicate a matching finished extension set for hands and toes."
+    }
+  ],
+  "reusedImagesPromptFile": "gallery-prompts.json",
+  "serviceImageMapping": [
+    {
+      "service": "Manicure",
+      "file": "assets/images/service-ai-manicure.png"
+    },
+    {
+      "service": "Pedicure",
+      "file": "assets/images/gallery-ai-pedicure-spa.png"
+    },
+    {
+      "service": "Gel Nails",
+      "file": "assets/images/gallery-ai-gel-candy-pink.png"
+    },
+    {
+      "service": "BIAB / Builder Gel",
+      "file": "assets/images/gallery-ai-biab-blush.png"
+    },
+    {
+      "service": "Acrylic Nails",
+      "file": "assets/images/gallery-ai-acrylic-coffin.png"
+    },
+    {
+      "service": "Ombre Powder",
+      "file": "assets/images/gallery-ai-acrylic-pink-ombre.png"
+    },
+    {
+      "service": "Nail & Toe Extensions",
+      "file": "assets/images/service-ai-extensions.png"
+    },
+    {
+      "service": "Nail Art & Crystals",
+      "file": "assets/images/gallery-ai-nail-art-crystal.png"
+    }
+  ]
+}

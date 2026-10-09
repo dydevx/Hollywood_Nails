@@ -162,37 +162,34 @@ function initHeaderScroll() {
    4. GALLERY FILTERING (NAIL INSPIRATION)
    ========================================================================== */
 function initGalleryFilter() {
-  const filterBtns = document.querySelectorAll('.filter-btn');
-  const galleryItems = document.querySelectorAll('.gallery-item');
+  const gallery = document.getElementById('gallery');
+  if (!gallery) return;
+
+  const filterBtns = gallery.querySelectorAll('.filter-btn');
+  const galleryItems = gallery.querySelectorAll('.gallery-item');
 
   if (!filterBtns.length || !galleryItems.length) return;
 
-  filterBtns.forEach((btn) => {
-    btn.addEventListener('click', () => {
-      // Toggle active button
-      filterBtns.forEach((b) => b.classList.remove('active'));
-      btn.classList.add('active');
+  const applyFilter = (selectedBtn) => {
+    const filterValue = selectedBtn.getAttribute('data-filter');
 
-      const filterValue = btn.getAttribute('data-filter');
-
-      galleryItems.forEach((item) => {
-        const itemCategory = item.getAttribute('data-category');
-        if (filterValue === 'all' || itemCategory === filterValue) {
-          item.style.display = 'block';
-          setTimeout(() => {
-            item.style.opacity = '1';
-            item.style.transform = 'scale(1)';
-          }, 10);
-        } else {
-          item.style.opacity = '0';
-          item.style.transform = 'scale(0.95)';
-          setTimeout(() => {
-            item.style.display = 'none';
-          }, 250);
-        }
-      });
+    filterBtns.forEach((btn) => {
+      const selected = btn === selectedBtn;
+      btn.classList.toggle('active', selected);
+      btn.setAttribute('aria-pressed', String(selected));
     });
+
+    // Update every item together so rapid clicks cannot leave stale timers.
+    galleryItems.forEach((item) => {
+      item.hidden = filterValue !== 'all' && item.getAttribute('data-category') !== filterValue;
+    });
+  };
+
+  filterBtns.forEach((btn) => {
+    btn.addEventListener('click', () => applyFilter(btn));
   });
+
+  applyFilter(Array.from(filterBtns).find((btn) => btn.classList.contains('active')) || filterBtns[0]);
 }
 
 /* ==========================================================================

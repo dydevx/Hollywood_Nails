@@ -1,0 +1,55 @@
+{
+  "generator": "Built-in image_gen",
+  "created": "2026-10-09",
+  "purpose": "AI-generated nail inspiration for the Gallery section",
+  "images": [
+    {
+      "slot": 1,
+      "category": "gel",
+      "file": "assets/images/gallery-ai-gel-coral.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website gallery photograph. Create one landscape 3:2 high-resolution editorial macro photograph, not a collage. Subject: a single adult woman's elegant relaxed hand with five anatomically correct fingers and perfectly manicured medium-short oval nails, all painted solid glossy coral-pink GEL POLISH. Clearly show thin natural-length nails, mirror-smooth gel shine, realistic cuticles and skin texture. Hand resting naturally on ivory textured linen over a pale blush salon surface. Soft diffused daylight, refined premium salon photography, nails sharply in focus, background softly out of focus. Frame the hand and nails in the central portion with room around the edges so both landscape and square crops retain the whole manicure. No text, no watermark, no logo, no decorative overlays, no jewelry, no nail art, no long acrylic extensions. This represents the category Gel, gallery title Glossy Gel Polish."
+    },
+    {
+      "slot": 2,
+      "category": "biab",
+      "file": "assets/images/gallery-ai-biab-blush.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website gallery photograph. Create ONE landscape 3:2 high-resolution photorealistic editorial beauty photograph, not a collage. Setting: an elegant blush-pink salon surface with ivory linen or clean white spa towel. Soft diffused daylight, refined salon photography, realistic skin texture, accurate anatomy, pristine realistic cuticles, nails sharply in focus, softly defocused background. Subject framed centrally with room around the edges for landscape and square crops. Show only the hand(s) or feet as specified, no faces. No text, letters, watermark, logo, jewelry, labels, borders or graphic overlays. Subject: one adult woman's relaxed hand resting palm down on ivory linen, showing five anatomically correct fingers with short natural oval nails. Nail treatment: BLUSH PINK BIAB BUILDER GEL OVERLAY on natural-length nails, a sheer milky blush pink finish, slightly structured smooth apex, healthy natural nail edges and subtle high shine. Minimal natural manicure without extensions, patterns, glitter or gems. Represents category BIAB and title Blush BIAB Overlay."
+    },
+    {
+      "slot": 3,
+      "category": "nail-art",
+      "file": "assets/images/gallery-ai-nail-art-pink-french.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website gallery photograph. Create ONE landscape 3:2 high-resolution photorealistic editorial beauty photograph, not a collage. Setting: an elegant blush-pink salon surface with ivory linen or clean white spa towel. Soft diffused daylight, refined salon photography, realistic skin texture, accurate anatomy, pristine realistic cuticles, nails sharply in focus, softly defocused background. Subject framed centrally with room around the edges for landscape and square crops. Show only the hand(s) or feet as specified, no faces. No text, letters, watermark, logo, jewelry, labels, borders or graphic overlays. Subject: one adult woman's hand posed naturally with all five fingers and nails visible, resting on ivory linen. Nail art: medium almond nails with a translucent pale blush base and precise HOT PINK FRENCH TIPS, clean curved smile lines and a delicate tiny hand-painted white floral accent on the ring fingernail. Clearly show pink tip detailing and fine handcrafted nail art. Elegant playful pink salon look. Represents category Nail Art, title Barbie French Tips."
+    },
+    {
+      "slot": 4,
+      "category": "acrylic",
+      "file": "assets/images/gallery-ai-acrylic-coffin.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website gallery photograph. Create ONE landscape 3:2 high-resolution photorealistic editorial beauty photograph, not a collage. Setting: an elegant blush-pink salon surface with ivory linen or clean white spa towel. Soft diffused daylight, refined salon photography, realistic skin texture, accurate anatomy, pristine realistic cuticles, nails sharply in focus, softly defocused background. Subject framed centrally with room around the edges for landscape and square crops. Show only the hand(s) or feet as specified, no faces. No text, letters, watermark, logo, jewelry, labels, borders or graphic overlays. Subject: one adult woman's single hand, five anatomically correct fingers in a relaxed palm-down pose, displaying a complete set of LONG COFFIN-SHAPED ACRYLIC NAIL EXTENSIONS. Straight tapered sidewalls with squared flat tips and realistic sculpted acrylic thickness, glossy opaque pale pink, subtle pearl shimmer and tiny crystal accents near the ring fingernail cuticle. The long coffin silhouette must be unmistakable and every nail clearly visible. Represents category Acrylic, title Glamour Coffin Acrylics."
+    },
+    {
+      "slot": 5,
+      "category": "acrylic",
+      "file": "assets/images/gallery-ai-acrylic-pink-ombre.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website gallery photograph. Create ONE landscape 3:2 high-resolution photorealistic editorial beauty photograph, not a collage. Setting: an elegant blush-pink salon surface with ivory linen or clean white spa towel. Soft diffused daylight, refined salon photography, realistic skin texture, accurate anatomy, pristine realistic cuticles, nails sharply in focus, softly defocused background. Subject framed centrally with room around the edges for landscape and square crops. Show only the hand(s) or feet as specified, no faces. No text, letters, watermark, logo, jewelry, labels, borders or graphic overlays. Subject: one adult woman's elegant relaxed hand with exactly five fingers, showing medium-long almond ACRYLIC EXTENSIONS with BABY BOOMER OMBRE: soft blush pink at the cuticle seamlessly fading into milky white toward the tips. Smooth airbrushed-looking color fade but realistic photographic nails, glossy finish, consistent almond silhouette, no gems or patterns. Place all nail tips inside central crop area. Represents category Acrylic/Ombre, title Soft Pink Ombre."
+    },
+    {
+      "slot": 6,
+      "category": "pedicure",
+      "file": "assets/images/gallery-ai-pedicure-spa.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website gallery photograph. Create ONE landscape 3:2 high-resolution photorealistic editorial beauty photograph, not a collage. Setting: an elegant blush-pink salon surface with ivory linen or clean white spa towel. Soft diffused daylight, refined salon photography, realistic skin texture, accurate anatomy, pristine realistic cuticles, nails sharply in focus, softly defocused background. Subject framed centrally with room around the edges for landscape and square crops. Show only the hand(s) or feet as specified, no faces. No text, letters, watermark, logo, jewelry, labels, borders or graphic overlays. Subject: close-up overhead beauty photograph of ONE adult woman's bare foot after a professional SPA PEDICURE, with all FIVE anatomically correct toes and all toenails clearly visible, resting naturally on a thick clean ivory spa towel. Toenails neatly shaped short soft squares, painted glossy blush-pink polish with very narrow white French tips, healthy hydrated skin and natural toe proportions. A softly blurred pale pink salon background, hygienic calm spa mood. Foot and toenails are the main focal point; no hands, no shoes, no polish bottles, no tools. Represents category Pedicure, title Luxury Spa Pedicure."
+    },
+    {
+      "slot": 7,
+      "category": "nail-art",
+      "file": "assets/images/gallery-ai-nail-art-crystal.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website gallery photograph. Create ONE landscape 3:2 high-resolution photorealistic editorial beauty photograph, not a collage. Setting: an elegant blush-pink salon surface with ivory linen or clean white spa towel. Soft diffused daylight, refined salon photography, realistic skin texture, accurate anatomy, pristine realistic cuticles, nails sharply in focus, softly defocused background. Subject framed centrally with room around the edges for landscape and square crops. Show only the hand(s) or feet as specified, no faces. No text, letters, watermark, logo, jewelry, labels, borders or graphic overlays. Subject: one adult woman's hand resting in a relaxed palm-down pose on ivory linen, all five anatomically correct fingers visible. Nail art: medium almond nails with a glossy sheer blush base, luminous pearly pink CHROME FINISH and intricate tiny clear CRYSTAL ACCENTS arranged as elegant cuticle arcs on ring and middle fingernails. Realistic small faceted rhinestones with subtle sparkle, tasteful handcrafted design, nails sharp in focus. No huge gems, no fake sparkle graphics. Represents category Nail Art, title Crystal Accent Art."
+    },
+    {
+      "slot": 8,
+      "category": "gel",
+      "file": "assets/images/gallery-ai-gel-candy-pink.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: nail salon website gallery photograph. Create ONE landscape 3:2 high-resolution photorealistic editorial beauty photograph, not a collage. Setting: an elegant blush-pink salon surface with ivory linen or clean white spa towel. Soft diffused daylight, refined salon photography, realistic skin texture, accurate anatomy, pristine realistic cuticles, nails sharply in focus, softly defocused background. Subject framed centrally with room around the edges for landscape and square crops. Show only the hand(s) or feet as specified, no faces. No text, letters, watermark, logo, jewelry, labels, borders or graphic overlays. Subject: one adult woman's relaxed hand with five anatomically correct fingers, displayed diagonally over ivory linen on a pale blush salon surface. Medium-short squoval natural nails painted uniform opaque CANDY PINK GEL POLISH, a fresh slightly cool bubblegum pink distinct from coral, ultra smooth glossy gel reflections, neat cuticles, consistent short natural nail lengths. No extensions, gems, glitter or patterns. Represents category Gel, title Candy Pink Glamour."
+    }
+  ]
+}
